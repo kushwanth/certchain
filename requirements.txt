@@ -1,0 +1,8 @@
+flask
+requests
+APScheduler
+weasyprint
+pyhanko
+pyhanko-certvalidator
+PyMuPDF
+meilisearch
